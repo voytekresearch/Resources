@@ -47,6 +47,7 @@ The lab has internal [tutorials](https://github.com/voytekresearch/tutorials) fo
 The lab also uses a shared [Google Drive](https://drive.google.com/folderview?id=0B9R6DF7z7yLbfmFFX3p5NmY4OXozcENmOE5NemJtcm5TTC1DRFllelVTTVI1WkFLQktzUlE&usp=sharing) for sharing some documents. Ask a lab member for access if you need it. 
 
 Logging into SDSC-hosted network storage:
+
 For Mac: Finder > Go > Connect to Server (or Cmd+K)
 Server address: smb://ps-074.sdsc.edu/voyteklab
 
