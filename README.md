@@ -27,7 +27,7 @@ CITI training:
 - Complete the Social & Behavioral Research Basic/Refresher Course 
 
 HIPAA 
-- Go to: https://irb.ucsd.edu/hipaatutorial/login.shtmll 
+- Go to: https://irb.ucsd.edu/hipaatutorial/login.shtml
 - Enter your information and complete the tutorial
 
 Once you have completed these trainings, you should e-mail the certificates to voyteklab@gmail.com
