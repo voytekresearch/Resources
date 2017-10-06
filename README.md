@@ -46,6 +46,14 @@ The lab has internal [tutorials](https://github.com/voytekresearch/tutorials) fo
 
 The lab also uses a shared [Google Drive](https://drive.google.com/folderview?id=0B9R6DF7z7yLbfmFFX3p5NmY4OXozcENmOE5NemJtcm5TTC1DRFllelVTTVI1WkFLQktzUlE&usp=sharing) for sharing some documents. Ask a lab member for access if you need it. 
 
+Logging into SDSC-hosted network storage:
+For Mac: Finder > Go > Connect to Server (or Cmd+K)
+Server address: smb://ps-074.sdsc.edu/voyteklab
+
+For Windows: (anyone out here?)
+
+Login information is the same as UCSD active directory (AD) login.
+
 ## External Resources
 
 For [python](https://www.python.org), we recommend using [conda](https://anaconda.org) as a package and environment manager. We use [Jupyter Notebooks](http://jupyter.org) a lot, which come packaged with anaconda. 
