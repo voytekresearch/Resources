@@ -55,14 +55,6 @@ For Windows: (anyone out here?)
 
 Login information is the same as UCSD active directory (AD) login.
 
-## External Resources
-
-For [python](https://www.python.org), we recommend using [conda](https://anaconda.org) as a package and environment manager. We use [Jupyter Notebooks](http://jupyter.org) a lot, which come packaged with anaconda. 
-
-For learning Python, [Jake Vanderplas](https://github.com/jakevdp) has a lot of great materials, including a [Whirl Wind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) and his [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), both available as sets of Juyter notebooks. 
-
-Digital Signal Processing (DSP) is a large component of analyzing time series data. If you want to learn a bit more about DSP, there is a great [Interactive Guide](https://jackschaedler.github.io/circles-sines-signals/) and/or a freely available textbook, [DSP for Scientists and Engineers](http://www.dspguide.com/pdfbook.htm). 
-
 ## End Message
 
 Lastly, there are a lot of great people working on a lot of exciting projects in this lab and you are highly encouraged to ask them about what they're working on. Everybody here is very friendly and likes to talk about what they're doing. Also, don't let yourself be intimidated by science. It's normal to be very, very confused in a computational and theoretical neuroscience lab. Don't hesitate to ask questions if you are confused and if you're working on a big project, try not to feel overwhelmed and take it one step at a time.
