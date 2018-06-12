@@ -44,6 +44,8 @@ Familiarize yourself with our [public code](https://github.com/voytekresearch/Vo
 
 The lab has internal [tutorials](https://github.com/voytekresearch/tutorials) for common electrophysiological analyses, as well as dedicated [tutorials](https://github.com/voytekresearch/neurodsp/tree/master/tutorials) in [neurodsp](https://github.com/voytekresearch/neurodsp), our main neural time-series analysis package.
 
+The lab also builds specialized analysis software for analyzing neural electrophysiology, including our package "fitting oscillations and one-over-f", or "fooof", which also has detailed [tutorials](https://github.com/voytekresearch/fooof/blob/master/tutorial/01-ModelDescription.ipynb).
+
 The lab also uses a shared [Google Drive](https://drive.google.com/folderview?id=0B9R6DF7z7yLbfmFFX3p5NmY4OXozcENmOE5NemJtcm5TTC1DRFllelVTTVI1WkFLQktzUlE&usp=sharing) for sharing some documents. Ask a lab member for access if you need it. 
 
 Logging into SDSC-hosted network storage:
