@@ -11,3 +11,5 @@ If you will be writing code with the VoytekLab, please check out our [Coding Sta
 ## Posters
 Need a poster for a conference? To learn how to construct and print, check out our [Posters](https://github.com/voytekresearch/Resources/wiki/Posters) page. Poster templates are available [here](https://github.com/voytekresearch/Resources/tree/master/Posters/Templates).
 
+## Running EEG
+If you are running experiments with the lab and collecting EEG data, get familiar with the [Guidelines for Running EEG](https://github.com/voytekresearch/Resources/wiki/Running-EEG). 
