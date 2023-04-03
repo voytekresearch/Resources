@@ -8,6 +8,9 @@ If you are just joining the lab, start with the [onboarding](https://github.com/
 ## Coding
 If you will be writing code with the VoytekLab, please check out our [Coding Standard Operating Procedures](https://github.com/voytekresearch/Resources/wiki/Coding-SOP).
 
+## Cluster Computing
+If you are running CPU-heavy code, it may be worth looking into running your code on a cluster. For more information, check out our [Cluster Computing](https://github.com/voytekresearch/Resources/tree/master/ClusterComputing) page.
+
 ## Posters
 Need a poster for a conference? To learn how to construct and print, check out our [Posters](https://github.com/voytekresearch/Resources/wiki/Posters) page. Poster templates are available [here](https://github.com/voytekresearch/Resources/tree/master/Posters/Templates).
 
