@@ -1,6 +1,6 @@
 # Voytek Lab Resources Page
 
-All Voytek Lab resources are available on the [Resources Wiki](https://github.com/voytekresearch/Resources/wiki). The wiki contains useful links and guidelines for basic lab things. Navigate within the wiki or using the guide below.
+All Voytek Lab resources are available on this page, below. It contains useful links and guidelines for basic lab things.
 
 ## Getting Started
 If you are just joining the lab, start with the [onboarding](https://github.com/voytekresearch/Resources/wiki/Onboarding) page. After that, check out our list of useful [external resources](https://github.com/voytekresearch/Resources/wiki/External-Resources).
