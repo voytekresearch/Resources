@@ -8,6 +8,9 @@ If you are just joining the lab, start with the [onboarding](https://github.com/
 ## Coding
 If you will be writing code with the VoytekLab, please check out our [Coding Standard Operating Procedures](https://github.com/voytekresearch/Resources/wiki/Coding-SOP).
 
+## Lab travel and purchases
+Need to buy something, or pay for a trip to a conference, using lab funds? Read the [travel and purchases](https://github.com/voytekresearch/Resources/wiki/Lab-travel-and-purchases) page. 
+
 ## Cluster Computing
 If you are running CPU-heavy code, it may be worth looking into running your code on a cluster. For more information, check out our [Cluster Computing](https://github.com/voytekresearch/Resources/tree/master/ClusterComputing) page.
 
