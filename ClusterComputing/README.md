@@ -7,3 +7,5 @@ The Social Sciences Computing Facility (SSCF) maintains a [Social Sciences Resea
 
 ## Getting Started on SSRDE
 The [Quick Start Guide](https://sscf.ucsd.edu/ssrde/quick-start-guide) available on their website makes it straightforward to set up your account and begin using the cluster. If you are using Python, they also have a useful guide for [Configuring Python for SSRDE](https://sscf.ucsd.edu/ssrde/learning-resources/configuring-python-for-ssrde) to help you set up a virtual environment to run your Python script within.
+
+If you run into any issues, you can email sscfhelp@ucsd.edu. They are usually both responsive and helpful.
