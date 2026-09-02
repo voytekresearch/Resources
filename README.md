@@ -5,6 +5,9 @@ All Voytek Lab resources are available on this page, below. It contains useful l
 ## Getting Started
 If you are just joining the lab, start with the [onboarding](https://github.com/voytekresearch/Resources/wiki/Onboarding) page. After that, check out our list of useful [external resources](https://github.com/voytekresearch/Resources/wiki/External-Resources).
 
+## Editing Website 
+Need to update your blurb or headshot on the lab's website? Read the [Editing Website](https://github.com/voytekresearch/Resources/wiki/Editing-Website) page.
+
 ## Coding
 If you will be writing code with the VoytekLab, please check out our [Coding Standard Operating Procedures](https://github.com/voytekresearch/Resources/wiki/Coding-SOP).
 
